@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentation", "1 - Presentation", "{5DA939EA-9852-4497-9C54-7C77244B399D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWallet.Authentication.Api", "MyWallet.Authentication.Api\MyWallet.Authentication.Api.csproj", "{1B4CAEB6-CAC8-4815-9CAC-48D82AE5A3B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B4CAEB6-CAC8-4815-9CAC-48D82AE5A3B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B4CAEB6-CAC8-4815-9CAC-48D82AE5A3B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B4CAEB6-CAC8-4815-9CAC-48D82AE5A3B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B4CAEB6-CAC8-4815-9CAC-48D82AE5A3B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1B4CAEB6-CAC8-4815-9CAC-48D82AE5A3B3} = {5DA939EA-9852-4497-9C54-7C77244B399D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3B79F27-79D9-4050-8267-7DF33EC79B17}
+	EndGlobalSection
+EndGlobal
